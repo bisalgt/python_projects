@@ -1,0 +1,164 @@
+SN,Books,Remarks
+1,Best Django Books (2019),Best ever remarks
+2,Django Favicon Tutorial,Best ever remarks
+3,Django Hosting Options,Best ever remarks
+4,Django Search Tutorial,Best ever remarks
+5,Best Python Books (2019),Best ever remarks
+6,Best Python Podcasts,Best ever remarks
+7,The Four by Scott Galloway - Book Review,Best ever remarks
+8,DjangoChat Podcast,Best ever remarks
+9,Django File (and Image) Uploads Tutorial,Best ever remarks
+10,Django Tips #8: Projects vs Apps,Best ever remarks
+11,"Podcast How-To Guide: Microphones, Headphones, Hosting, and More",Best ever remarks
+12,Site Design,Best ever remarks
+13,Django Tips #7: Function-Based Views vs Class-Based Views,Best ever remarks
+14,Best Online React Video Tutorials (2019),Best ever remarks
+15,Best Online Django Video Tutorials (2019),Best ever remarks
+16,Best Online Python Video Tutorials (2019),Best ever remarks
+17,Best JavaScript Books (2019),Best ever remarks
+18,Best Flask Books (2019),Best ever remarks
+19,Best React Books (2019),Best ever remarks
+20,Year in Review (2018),Best ever remarks
+21,Talk Python Podcast Interview - Teaching Django,Best ever remarks
+22,Is Django a Full Stack Framework?,Best ever remarks
+23,"Django 'Hello, World' with Docker",Best ever remarks
+24,A Beginner's Guide to Docker,Best ever remarks
+25,Django Local 404 Page,Best ever remarks
+26,Official Django REST Framework Tutorial - A Beginners Guide,Best ever remarks
+27,Django Testing Tutorial,Best ever remarks
+28,Django Tips #6: Custom User Model,Best ever remarks
+29,Django Log In with Email not Username,Best ever remarks
+30,Django: How to Extend The User Model (aka Custom User Model),Best ever remarks
+31,"Hello, World with Express and JavaScript",Best ever remarks
+32,Django Tips #5: Docker,Best ever remarks
+33,Django Password Reset Tutorial (Part 3),Best ever remarks
+34,Django Sign Up Tutorial (Part 2),Best ever remarks
+35,Django Login/Logout Tutorial (Part 1),Best ever remarks
+36,Django Tips #4: User permissions,Best ever remarks
+37,Learning Django: What Makes it Hard?,Best ever remarks
+38,TCP vs UDP,Best ever remarks
+39,JavaScript: Pure Functions,Best ever remarks
+40,JavaScript: Prototypal Inheritance,Best ever remarks
+41,JavaScript: Function Expressions vs Declarations,Best ever remarks
+42,JavaScript Data Structures: Array,Best ever remarks
+43,JavaScript Algorithms: Quicksort,Best ever remarks
+44,JavaScript Algorithms: Mergesort,Best ever remarks
+45,JavaScript: Reverse a Linked List,Best ever remarks
+46,JavaScript: Find a Number in an Ordered Array,Best ever remarks
+47,Python Web Frameworks,Best ever remarks
+48,Static vs Dynamic Websites: Pros and Cons,Best ever remarks
+49,JavaScript Guide,Best ever remarks
+50,Django Contact Form Tutorial,Best ever remarks
+51,Install Python 3 on Windows,Best ever remarks
+52,Django Tips #3: Template Structure,Best ever remarks
+53,Python *args and **kwargs,Best ever remarks
+54,Podcast.__init__ Interview - The Business of Technical Authoring,Best ever remarks
+55,Django Tips #2: Imports,Best ever remarks
+56,Django Tips #1: makemigrations command,Best ever remarks
+57,Thoughts on Publishing a Technical Book (Part 2),Best ever remarks
+58,Static Website Services,Best ever remarks
+59,Meteor Hosting Options,Best ever remarks
+60,Install Python 3 on Chromebook,Best ever remarks
+61,Install Python 3 on Mac,Best ever remarks
+62,"How to use Django, PostgreSQL, and Docker",Best ever remarks
+63,Django Models Best Practices,Best ever remarks
+64,Django - Referencing the User Model,Best ever remarks
+65,React Counter Button,Best ever remarks
+66,React Stopwatch,Best ever remarks
+67,React Clock,Best ever remarks
+68,A Complete Introduction to React: Build a Beatles Voting App,Best ever remarks
+69,React Real-time Inputs,Best ever remarks
+70,JavaScript Closures Explained,Best ever remarks
+71,JavaScript Callback Functions Explained,Best ever remarks
+72,Django Rest Framework User Authentication Tutorial - Custom User Model + Social Auth,Best ever remarks
+73,React Events & Forms: Build a Real-time Input,Best ever remarks
+74,Introducing DjangoX - A new starter framework for Django,Best ever remarks
+75,Django Rest Framework - Changing Field Names with Source,Best ever remarks
+76,Django Polls Tutorial API,Best ever remarks
+77,Thoughts on Publishing a Technical Book (Part 1),Best ever remarks
+78,"Django Rest Framework - Serializers, ViewSets, and Routers",Best ever remarks
+79,Django Rest Framework Authentication Tutorial,Best ever remarks
+80,Django Rest Framework - Blog API,Best ever remarks
+81,Django Best Practices,Best ever remarks
+82,Django Complete User Auth: Custom User model + Social Auth with Google,Best ever remarks
+83,Django-allauth tutorial,Best ever remarks
+84,The Evolving Online Test Prep Market,Best ever remarks
+85,Django Rest Framework with React Tutorial,Best ever remarks
+86,JavaScript: Merge Two Sorted Arrays,Best ever remarks
+87,JavaScript: Stock Prices Problem,Best ever remarks
+88,Best Online JavaScript Video Tutorials (2019),Best ever remarks
+89,Python: Flask vs Django,Best ever remarks
+90,JavaScript Two Sum: Find the Highest Product of Two Numbers,Best ever remarks
+91,JavaScript Three Sum: Find the Highest Product of Three Numbers,Best ever remarks
+92,JavaScript: Print Odd or Even Numbers,Best ever remarks
+93,JavaScript: parseInt and map,Best ever remarks
+94,JavaScript: Merge Two Arrays,Best ever remarks
+95,JavaScript: Duplicate an Array,Best ever remarks
+96,JavaScript: Convert Array to a String,Best ever remarks
+97,JavaScript: Compute the nth Fibonacci Number,Best ever remarks
+98,JavaScript: Sort an Array of Strings or Numbers,Best ever remarks
+99,JavaScript: Remove Duplicates from an Array,Best ever remarks
+100,JavaScript Event Loop,Best ever remarks
+101,JavaScript Closures: setTimeout Inside a For Loop,Best ever remarks
+102,Object-Oriented JavaScript: Deck of Cards,Best ever remarks
+103,What Happens When You Type in a URL,Best ever remarks
+104,URIs vs URLs,Best ever remarks
+105,JavaScript Range Array Function ,Best ever remarks
+106,"JavaScript: Map, Filter, Reduce",Best ever remarks
+107,Currying in JavaScript,Best ever remarks
+108,"JavaScript: var, let, and const",Best ever remarks
+109,JavaScript Scope and Closures,Best ever remarks
+110,JavaScript Tilde ~ (Bitwise Not operator),Best ever remarks
+111,JavaScript Double Negate (aka !!),Best ever remarks
+112,JavaScript: var keyword explored,Best ever remarks
+113,JavaScript Temporal Dead Zone,Best ever remarks
+114,JavaScript Hoisting,Best ever remarks
+115,Python 2 vs Python 3: Which to Learn?,Best ever remarks
+116,Python's greatest common divisor,Best ever remarks
+117,Python Tuple Unpacking,Best ever remarks
+118,Python Optimizations with Guido,Best ever remarks
+119,Python zip(),Best ever remarks
+120,Algorithms: Simple Search,Best ever remarks
+121,Python WAT!? Out of Range Slices,Best ever remarks
+122,Python WAT!? Integer Cache,Best ever remarks
+123,Python's Built-in Help Function,Best ever remarks
+124,Algorithms: Binary Search,Best ever remarks
+125,"Node Express Tutorial, part 1",Best ever remarks
+126,SQLjs Redesign: Online SQL Interpreter,Best ever remarks
+127,Favorite Programming Quotes,Best ever remarks
+128,JavaScript Arrays: slice vs splice,Best ever remarks
+129,JavaScript Arithmetic Operators,Best ever remarks
+130,Python Lambda Expressions,Best ever remarks
+131,Python Pass Statement,Best ever remarks
+132,How The Web Works,Best ever remarks
+133,How Does the Internet Work?,Best ever remarks
+134,Total Beginner vs Beginner,Best ever remarks
+135,Error 522: Connection Timed Out,Best ever remarks
+136,Install Node.js and NPM on a Mac,Best ever remarks
+137,Install Node.js and NPM on Windows,Best ever remarks
+138,Node Rest API Tutorial,Best ever remarks
+139,The Next WordPress,Best ever remarks
+140,Python List Comprehensions Tutorial,Best ever remarks
+141,NextJS/Zeit for Total Beginners,Best ever remarks
+142,Database Design Tutorial for Beginners,Best ever remarks
+143,Static vs Dynamic: A question of layers?,Best ever remarks
+144,Simple Django Project,Best ever remarks
+145,What is a Static Site Generator?,Best ever remarks
+146,Static Site Hosting with S3 and CloudFlare,Best ever remarks
+147,Django About Page Three Ways,Best ever remarks
+148,"Install Django, Python3, pip, virtualenv, and virtualenvwrapper",Best ever remarks
+149,The Monty Hall Problem Explained,Best ever remarks
+150,REST: a definition,Best ever remarks
+151,Cactus Static Site Generator,Best ever remarks
+152,Django Caching for Beginners,Best ever remarks
+153,Django Template Current Page URL,Best ever remarks
+154,Teaching Meteor to Beginners,Best ever remarks
+155,Terminal/Command Line for Beginners,Best ever remarks
+156,Clipboard.js for Meteor,Best ever remarks
+157,Meteor Developer Login Accounts,Best ever remarks
+158,How to use Typekit locally,Best ever remarks
+159,Meteor Anchor Tags,Best ever remarks
+160,Meteor Custom User Accounts,Best ever remarks
+161,Meteor Stripe Checkout,Best ever remarks
+162,WARNINGS: ?: (1_6.W001) Some project unittests may not execute as expected.,Best ever remarks
+163,Format Phone Numbers in Django,Best ever remarks
